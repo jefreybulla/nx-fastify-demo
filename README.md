@@ -1,4 +1,5 @@
 # Nx - Fastify demo
+Simple back-end demo using Nx and Fastify
 
 ## Run tasks
 
